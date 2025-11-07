@@ -1,5 +1,12 @@
 # Hi there, I'm Laura Cabrera 👋
 
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/lzcabrera?style=social)](https://github.com/lzcabrera)
+[![GitHub stars](https://img.shields.io/github/stars/lzcabrera?style=social)](https://github.com/lzcabrera)
+
+</div>
+
 ## About Me
 
 I'm a passionate **Full-Stack Developer** with a focus on building impactful web applications that make a difference in people's lives. I believe in writing clean, maintainable code and creating user experiences that are both functional and delightful.
@@ -9,6 +16,17 @@ I'm a passionate **Full-Stack Developer** with a focus on building impactful web
 Currently developing **FuelTheFun** - a multi-tenant school lunch management system built with Rails 8, helping schools streamline their lunch ordering process and manage subsidies for families in need.
 
 ### 💻 Tech Stack
+
+<div align="center">
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 **Backend:**
 - Ruby on Rails (Rails 8+)
@@ -28,6 +46,18 @@ Currently developing **FuelTheFun** - a multi-tenant school lunch management sys
 - Git workflows with conventional commits
 - Modern DevOps with Kamal deployment
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzcabrera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcabrera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lzcabrera&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
 ### 🌱 What I'm Learning
 
 - Advanced Rails 8 features (Solid Queue, Solid Cache, Solid Cable)
@@ -43,10 +73,19 @@ I'm committed to:
 - **Continuous Learning**: Staying current with modern web development
 - **Collaboration**: Clear communication and thorough documentation
 
+### 🏆 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 📫 How to Reach Me
 
-- **GitHub**: [@lzcabrera](https://github.com/lzcabrera)
-- **Email**: lzcabrera@gmail.com
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lzcabrera)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzcabrera@gmail.com)
+
+</div>
 
 ### ⚡ Fun Fact
 
@@ -54,4 +93,10 @@ I love solving complex problems with elegant solutions, and I'm always excited t
 
 ---
 
+<div align="center">
+
 💡 *Always building, always learning, always improving.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=lzcabrera&color=blueviolet&style=flat-square)
+
+</div>
