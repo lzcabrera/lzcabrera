@@ -54,7 +54,7 @@ Currently developing **FuelTheFun** - a multi-tenant school lunch management sys
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcabrera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lzcabrera&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lzcabrera&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
