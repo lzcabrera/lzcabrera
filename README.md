@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** with a focus on building impactful web applications that make a difference in people's lives. I believe in writing clean, maintainable code and creating user experiences that are both functional and delightful.
+I'm a passionate **Software Engineer** with a focus on building impactful web applications that make a difference in people's lives. I believe in writing clean, maintainable code and creating user experiences that are both functional and delightful.
 
 ### 🔭 What I'm Working On
 
