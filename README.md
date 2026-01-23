@@ -26,17 +26,22 @@ Currently developing **FuelTheFun** - a multi-tenant school lunch management sys
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 **Backend:**
 - Ruby on Rails (Rails 8+)
 - PostgreSQL
-- Sidekiq for background jobs
+- GraphQL
 - Stripe for payment processing
 - Node.js
 
 **Frontend:**
+- React
+- Vite
 - Tailwind CSS v4
 - Stimulus.js
 - Turbo (Hotwire)
@@ -47,6 +52,7 @@ Currently developing **FuelTheFun** - a multi-tenant school lunch management sys
 - Component-driven UI development
 - Git workflows with conventional commits
 - Modern DevOps with Kamal deployment
+- Multi-agent development with Vibe Kanban and Claude Code
 
 ### 📊 GitHub Stats
 
