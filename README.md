@@ -13,7 +13,9 @@ I'm a passionate **Software Engineer** with a focus on building impactful web ap
 
 ### 🔭 What I'm Working On
 
-Currently developing **FuelTheFun** - a multi-tenant school lunch management system built with Rails 8, helping schools streamline their lunch ordering process and manage subsidies for families in need.
+Building **FuelTheFun** — a multi-tenant school lunch management system (Rails 8) that helps schools streamline lunch ordering and manage subsidies for families in need.
+
+Lately I've been running parallel workstreams using Git worktrees + Claude Code agents, tackling multiple issues simultaneously across isolated branches. It's changed how I approach feature development — less context switching, more flow.
 
 ### 💻 Tech Stack
 
@@ -62,6 +64,8 @@ Currently developing **FuelTheFun** - a multi-tenant school lunch management sys
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcabrera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=lzcabrera&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ### 🌱 What I'm Learning
@@ -79,16 +83,12 @@ I'm committed to:
 - **Continuous Learning**: Staying current with modern web development
 - **Collaboration**: Clear communication and thorough documentation
 
-### 🏆 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ### 📫 How to Reach Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lzcabrera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lzcabrera)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzcabrera@gmail.com)
 
 </div>
