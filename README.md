@@ -17,6 +17,8 @@ Building **FuelTheFun** — a multi-tenant school lunch management system (Rails
 
 Lately I've been running parallel workstreams using Git worktrees + Claude Code agents, tackling multiple issues simultaneously across isolated branches. It's changed how I approach feature development — less context switching, more flow.
 
+Also building out a personal knowledge system using **Claude Code + Obsidian** — Claude is the engine, Obsidian is the viewer. I use it as a life OS: managing projects, daily reviews, nutrition tracking, and more. Custom skills handle the repetitive stuff so I can focus on thinking, not organizing.
+
 ### 💻 Tech Stack
 
 <div align="center">
