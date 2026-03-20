@@ -56,7 +56,7 @@ Also building out a personal knowledge system using **Claude Code + Obsidian** â
 - Component-driven UI development
 - Git workflows with conventional commits
 - Modern DevOps with Kamal deployment
-- Multi-agent development with Vibe Kanban and Claude Code
+- Parallel feature development with [Worktrunk](https://worktrunk.dev) and Claude Code
 
 ### ðŸ“Š GitHub Stats
 
@@ -66,7 +66,6 @@ Also building out a personal knowledge system using **Claude Code + Obsidian** â
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzcabrera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=lzcabrera&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
