@@ -13,11 +13,11 @@ I'm a passionate **Software Engineer** with a focus on building impactful web ap
 
 ### 🔭 What I'm Working On
 
-Building **FuelTheFun** — a multi-tenant school lunch management system (Rails 8) that helps schools streamline lunch ordering and manage subsidies for families in need.
+Building **FuelTheFun** — a production Rails 8 SaaS for school lunch ordering. Multi-tenant architecture where each school manages its own Stripe Connect account, vendor menus, ordering windows, and a donation-funded subsidy pool for families in need. Features allergen tracking across 14+ dietary restrictions, a 40+ component ViewComponent library, OAuth with account linking (Google/Facebook), and automated deployment via Kamal on GCP. Currently at v0.55.0 with 70%+ test coverage.
 
-Lately I've been running parallel workstreams using Git worktrees + Claude Code agents, tackling multiple issues simultaneously across isolated branches. It's changed how I approach feature development — less context switching, more flow.
+Lately I've been running parallel workstreams using Git worktrees + Claude Code agents via [Superpowers](https://github.com/obra/superpowers), tackling multiple issues simultaneously across isolated branches. It's changed how I approach feature development — less context switching, more flow.
 
-Also building out a personal knowledge system using **Claude Code + Obsidian** — Claude is the engine, Obsidian is the viewer. I use it as a life OS: managing projects, daily reviews, nutrition tracking, and more. Custom skills handle the repetitive stuff so I can focus on thinking, not organizing.
+Also building a personal knowledge system with **Claude Code + Obsidian** — 12 custom Claude Code skills wired into 16 structured Obsidian Bases. I use it to manage projects, track nutrition macros, and surface information on demand. Claude is the engine, Obsidian is the viewer.
 
 ### 💻 Tech Stack
 
@@ -40,7 +40,9 @@ Also building out a personal knowledge system using **Claude Code + Obsidian** �
 - Ruby on Rails (Rails 8+)
 - PostgreSQL
 - GraphQL
-- Stripe for payment processing
+- Stripe Connect for payment processing
+- Solid Queue for background jobs
+- Devise + OAuth 2.0 (Google, Facebook)
 - Node.js
 
 **Frontend:**
@@ -52,11 +54,11 @@ Also building out a personal knowledge system using **Claude Code + Obsidian** �
 - ViewComponent architecture
 
 **Tools & Practices:**
-- Test-Driven Development with RSpec
-- Component-driven UI development
+- Test-Driven Development with RSpec (70%+ coverage)
+- Component-driven UI with ViewComponent + Lookbook
 - Git workflows with conventional commits
-- Modern DevOps with Kamal deployment
-- Parallel feature development with [Worktrunk](https://worktrunk.dev) and Claude Code
+- Modern DevOps with Kamal on GCP
+- Parallel feature development with [Superpowers](https://github.com/obra/superpowers) and Claude Code
 
 ### 📊 GitHub Stats
 
@@ -71,10 +73,10 @@ Also building out a personal knowledge system using **Claude Code + Obsidian** �
 
 ### 🌱 What I'm Learning
 
-- Advanced Rails 8 features (Solid Queue, Solid Cache, Solid Cable)
-- UX research and accessibility best practices
-- System design and multi-tenancy patterns
-- Cloud infrastructure optimization on GCP
+- Stripe Connect architecture and webhook handling
+- Multi-tenancy patterns at scale
+- Obsidian Bases as structured, queryable data
+- Accessibility and design systems in component libraries
 
 ### 🎯 My Approach
 
